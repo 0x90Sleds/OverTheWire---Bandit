@@ -1,0 +1,6 @@
+Reading from a file called "spaces in this filename"
+
+unfortunately cat also doesn't like spaces, so we have to do it a different way, by using escape characters
+
+cat spaces\ in\ this\ filename
+UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
